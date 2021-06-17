@@ -1,6 +1,6 @@
-Program for the electrical characterization of transistors (version 2019)
+LabVIEW program for the electrical characterization of transistors (version 2019)
 
-Tested on: Windows 7 (32 bit), Labview 2018
+Tested on: Windows 7 (32 bit), LabVIEW 2018
 
 Voltage: FeelTech FY6800 signal generator
 
