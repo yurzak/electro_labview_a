@@ -1,5 +1,4 @@
-# 2019
-Program for the electrical characterization of transistors
+Program for the electrical characterization of transistors (version 2019)
 
 Tested on: Windows 7 (32 bit), Labview 2018
 
